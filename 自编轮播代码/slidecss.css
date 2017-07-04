@@ -1,0 +1,18 @@
+.slide-image {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.slide-container {
+  position: relative;
+}
+
+.slide-image img {
+  width: 100%;
+  position: relative;
+}
+
+button {
+  margin-top: 50px;
+}
